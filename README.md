@@ -24,5 +24,5 @@ Struktur Tabel `users`
 |------------|--------------|-------------------------|
 | id         | INT (PK, AI) | ID pengguna             |
 | nama       | VARCHAR(100) | Nama lengkap            |
-| email      | VARCHAR(100) | Email (unik)            |
+| email      | VARCHAR(100) | Email                   |
 | password   | VARCHAR(255) | Password ter-hash       |
